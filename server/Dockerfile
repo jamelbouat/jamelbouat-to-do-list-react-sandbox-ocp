@@ -7,3 +7,4 @@ RUN echo '{"tasks": [{"title": "first","description": "No description","id": 2,"
 ENTRYPOINT ["json-server", "--port", "4400", "--host", "0.0.0.0"]
 
 CMD ["/tasks.json"]
+
