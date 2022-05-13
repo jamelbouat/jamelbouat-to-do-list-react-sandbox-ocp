@@ -1,4 +1,4 @@
-const url = 'https://json-tasks-server-djamel-rennes-dev.apps.sandbox.x8i5.p1.openshiftapps.com';
+const url = 'https://json-tasks-server-djamel-rennes-dev.apps.sandbox.x8i5.p1.openshiftapps.com/';
 
 // const key = process.env.REACT_APP_API_KEY;
 // const url = `https://${ key }.mockapi.io`;
