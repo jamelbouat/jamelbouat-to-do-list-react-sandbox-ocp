@@ -1,6 +1,6 @@
 FROM node:16-slim
 
-#WORKDIR /
+WORKDIR /
 
 RUN npm install -g json-server
 
